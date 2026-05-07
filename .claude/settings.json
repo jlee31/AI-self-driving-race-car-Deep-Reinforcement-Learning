@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/josephlee/dev/projects/AI-self-driving-race-car-Deep-Reinforcement-Learning rm --cached \"tf1_original/Train_Test_Data/CPU_tests/__pycache__/plot_train.cpython-37.pyc\")"
+    ]
+  }
+}
