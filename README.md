@@ -14,8 +14,8 @@ This is a personal rewrite of [this TF1/Gym DQN project](tf1_original/README.md)
 | --- | --- |
 | TensorFlow 1.x | PyTorch |
 | `gym==0.17.3` (deprecated) | `gymnasium>=1.0.0` |
-| 5 hardcoded discrete actions | TBD — continuous or discrete |
-| DQN | TBD — exploring PPO / DQN |
+| 5 hardcoded discrete actions | Probably similar 5 hardcoded discrete actions |
+| DQN | exploring PPO / DQN |
 
 ---
 
